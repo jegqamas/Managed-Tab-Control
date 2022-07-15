@@ -1,0 +1,6 @@
+Version 1.1:
+------------
+* Added: "AfterAutoTabDragAndDrop" and "BeforeAutoTabDragAndDrop" events
+* Added: "TabPagesCleared" event
+* Fixed: issue when removing a tab page, the panel never get updated.
+* Improved: tab page spliters now improved for nice gfx.
